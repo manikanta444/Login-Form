@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "favicons": "^7.1.4",
+    "i": "^0.3.7",
+    "mdb-ui-kit": "^6.4.1",
+    "mdbootstrap": "^4.20.0"
+  }
+}
